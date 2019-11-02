@@ -1,1 +1,2 @@
-# community-analyzer
+# License
+mit
